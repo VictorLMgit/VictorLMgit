@@ -7,8 +7,8 @@ class SobreMim extends Desenvolvedor {
   public $formacao = ['Análise e Desenvolvimento de Sistemas', 'Matemática'];
 }
 class Skills extends Desenvolvedor {
-  public $linguagens  = ['PHP, JS, CSS, MySQL'];
-  public $frameworks = ['Laravel, NodeJS, Vue'];
+  public $linguagens  = ['PHP', 'JS', 'CSS', 'MySQL'];
+  public $frameworks = ['Laravel', 'Vue'];
 }
 ```
 
