@@ -8,7 +8,7 @@ class SobreMim extends Desenvolvedor {
 }
 class Skills extends Desenvolvedor {
   public $linguagens  = ['PHP', 'JS', 'CSS', 'MySQL'];
-  public $frameworks = ['Laravel', 'Vue', 'Bootstrap', 'JQuery'];
+  public $frameworks = ['Laravel', 'Bootstrap', 'JQuery'];
 }
 ```
 
