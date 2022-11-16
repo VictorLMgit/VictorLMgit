@@ -7,8 +7,9 @@ class SobreMim extends Desenvolvedor {
   public $formacao = ['Análise e Desenvolvimento de Sistemas', 'Matemática'];
 }
 class Skills extends Desenvolvedor {
-  public $linguagens  = ['PHP', 'JS', 'CSS', 'MySQL'];
+  public $linguagens  = ['PHP', 'JS', 'CSS', 'MySQL', 'Python'];
   public $frameworks = ['Laravel', 'Bootstrap', 'JQuery', 'Node'];
+  public $ferramentas  = ['AWS', 'LINUX', 'Shell'];
 }
 ```
 
@@ -26,7 +27,9 @@ class Skills extends Desenvolvedor {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/node.png"></code>
 ## **Minhas Estatísticas no Github**
 
 <a href="https://github.com/Gurupreet">
