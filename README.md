@@ -32,9 +32,6 @@ class Skills extends Desenvolvedor {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 ## **Minhas Estatísticas no Github**
  <p >&nbsp; <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victorLMGit" width="380" > </img>
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLMgit&theme=cobalt&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorLMgit&show_icons=true&theme=cobalt&line_height=27" alt="Victor github stats"/>
