@@ -19,7 +19,7 @@ const victorStatus = {
             js: ["Angular"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Shell"],
-        databases: ["mongo", "MySql", "postgreSql :elephant:"],
+        databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"],
         misc: ["Java", "Flutter"]
     }
 };
