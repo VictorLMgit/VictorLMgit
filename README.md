@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Web Developer | Devops :cloud: </h3>
 <br>
 
-A little about me :point_down:
+## A little about me :point_down:
 ```javascript
 const victorStatus = {
     name: "Victor Lima",
@@ -39,8 +39,6 @@ Here are some of my most important repositories. Check them out!
 
 ### **LANGUAGES AND TOOLS** :star:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -63,12 +61,10 @@ Here are some of my most important repositories. Check them out!
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLMgit&theme=holi">
 </p>
 
-[instagram]: https://www.instagram.com/victorlima.ms/
 [linkedin]: https://www.linkedin.com/in/victor-limath/
+[LeetCode]: https://leetcode.com/u/victorlimacar/
 <br>
 
 #### Social Network!
 
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+💻 [LeetCode][LeetCode]   🔗 [linkedin][linkedin]
