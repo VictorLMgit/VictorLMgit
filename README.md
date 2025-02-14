@@ -9,15 +9,13 @@ const victorStatus = {
     home: "Fortaleza/CE - Brazil",
     academic: ["software analysis and development", "mathematics"],
     code: ["Javascript", "Python", "PHP"],
-    askMeAbout: ["web dev", "Math", "Algorithms", "Machine Learning", "Sports"],
+    askMeAbout: ["web dev", "Math", "Algorithms", "Machine Learning"],
     technologies: {
         backEnd: {
-            js: ["Node", "Nest", "Express"],
+            JS: ["Node", "Nest", "Express"],
             PHP: ["Laravel", "Hyperf"]
-        },
-        FrontEnd: {
-            js: ["Angular"]
-        },
+            Pythob: ["FastAPI", "beautifulsoup"] 
+        }
         devOps: ["AWS", "Docker🐳", "Nginx", "Shell"],
         databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"],
         misc: ["Java", "Flutter"]
