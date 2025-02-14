@@ -13,8 +13,8 @@ const victorStatus = {
     technologies: {
         backEnd: {
             JS: ["Node", "Nest", "Express"],
-            PHP: ["Laravel", "Hyperf"]
-            Pythob: ["FastAPI", "beautifulsoup"] 
+            PHP: ["Laravel", "Hyperf"],
+            Python: ["FastAPI", "beautifulsoup"] 
         }
         devOps: ["AWS", "Docker🐳", "Nginx", "Shell"],
         databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"],
