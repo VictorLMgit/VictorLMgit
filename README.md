@@ -31,6 +31,7 @@ Here are some of my most important repositories. Check them out!
 | Project | Description | Link |
 |---------|------------|------|
 | **LeetCode Solutions** | My collection of algorithmic problem-solving solutions from LeetCode. | [🔗 Repo](https://github.com/VictorLMgit/leetcode) |
+| **RAG Implementation** | The objective of this repository is to explain what a RAG is, where it can be applied, and its implementation. | [🔗 Repo](https://github.com/VictorLMgit/R.A.G.) |
 | **URL Shortener API** | A URL Shortener API built with Node.js and Redis for fast and efficient link shortening. It provides endpoints to create, retrieve, and manage short URLs with low latency and high performance. | [🔗 Repo](https://github.com/VictorLMgit/urlShortner) |
 | **Whatsapp Bot** | A WhatsApp Bot built with Node.js to automate messaging, handle commands, and integrate with external APIs. It can send replies, manage groups, and provide real-time responses for various use cases. | [🔗 Repo](https://github.com/VictorLMgit/whatsapp-bot) |
 
