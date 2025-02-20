@@ -1,5 +1,5 @@
 <h1 align="center">Hey you! 👋, I'm Victor Lima </h1> 
-<h3 align="center">Software Engineer | Web Developer | Devops :cloud: </h3>
+<h3 align="center">🤖 Software Engineer 💻</h3>
 <br>
 
 ## A little about me :point_down:
@@ -12,16 +12,17 @@ const victorStatus = {
     askMeAbout: ["web dev", "Math", "Algorithms", "Machine Learning"],
     technologies: {
         backEnd: {
-            JS: ["Node", "Nest", "Express"],
-            PHP: ["Laravel", "Hyperf"],
+            JS: ["Node", "Express"],
+            PHP: ["Laravel"],
             Python: ["FastAPI", "beautifulsoup"] 
-        }
-        devOps: ["AWS", "Docker🐳", "Nginx", "Shell"],
-        databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"],
-        misc: ["Java", "Flutter"]
+        },
+        devOps: ["AWS", "Nginx", "Shell"],
+        databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"]
     }
 };
 ```
+
+
 ----
 ## 🌟 Featured Projects
 
@@ -43,12 +44,10 @@ Here are some of my most important repositories. Check them out!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <br>
 
