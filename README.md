@@ -1,5 +1,5 @@
 <h1 align="center">Hey you! 👋, I'm Victor Lima </h1> 
-<h3 align="center">🤖 Software Engineer 💻</h3>
+<h3 align="center">🤖 Software Engineer | Fullstack Developer 💻</h3>
 <br>
 
 ## A little about me :point_down:
@@ -12,7 +12,7 @@ const victorStatus = {
     askMeAbout: ["web dev", "Math", "Algorithms", "Machine Learning"],
     technologies: {
         backEnd: {
-            JS: ["Node", "Express"],
+            JS: ["Node", "Express", "React"],
             PHP: ["Laravel"],
             Python: ["FastAPI", "beautifulsoup"] 
         },
