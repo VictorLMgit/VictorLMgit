@@ -14,7 +14,7 @@ const victorStatus = {
         backEnd: {
             JS: ["Node", "Express", "React"],
             PHP: ["Laravel"],
-            Python: ["FastAPI", "beautifulsoup"] 
+            Python: ["FastAPI", "DJango"] 
         },
         devOps: ["AWS", "Nginx", "Shell"],
         databases: ["mongo", "MySql", "postgreSql :elephant: , Redis"]
